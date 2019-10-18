@@ -1,0 +1,1 @@
+These contains various data like plugins, images etc
