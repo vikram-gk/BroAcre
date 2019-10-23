@@ -14,9 +14,10 @@ Real Estate Sellers used to advertise their properties on newspapers like Classi
     ● Factors like  proximity to hospitals, bus stations, metro stations are also listed for each such property.
     ● Buyers are also provided with the  various recent complaints in the locality of every property to make better decisions on their purchase.
 ### Steps to set it up
-1. pip install -r requirements.txt
-2. psql -f postgres_init.sql (if this does not work manually run these querries in ur psql prompt)
-3. python3 app.py
+1. pip install --upgrade pip 
+2. pip install -r requirements.txt
+3. psql -f postgres_init.sql (if this does not work manually run these querries in ur psql prompt)
+4. python3 app.py
 
 ### Contact
 phone:7349029749
